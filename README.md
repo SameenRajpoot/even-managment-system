@@ -29,13 +29,14 @@ An Event Management System (EMS) is a software solution designed to simplify the
     
 ## Usage/Examples
 
-This is UI of my EMS
-
-<img width="413" alt="Screenshot 2024-02-04 200148" src="https://github.com/SameenRajpoot/even-managment-system/assets/151715597/8f59e5f3-4296-4eab-8eaa-0c18b4b8621e">
-
 1) Access the EMS dashboard through your web browser.
 2) Log in with administrator credentials.
 3) Create a new event and configure the necessary details.
 4) Manage attendees, vendors, and resources through the intuitive interface.
 5) Monitor event analytics and generate reports as needed.
 
+## UI of EMS
+
+This is the UI of my EMS
+
+<img width="413" alt="Screenshot 2024-02-04 200148" src="https://github.com/SameenRajpoot/even-managment-system/assets/151715597/8f59e5f3-4296-4eab-8eaa-0c18b4b8621e">

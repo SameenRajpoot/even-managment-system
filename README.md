@@ -40,3 +40,8 @@ An Event Management System (EMS) is a software solution designed to simplify the
 This is the UI of my EMS
 
 <img width="413" alt="Screenshot 2024-02-04 200148" src="https://github.com/SameenRajpoot/even-managment-system/assets/151715597/8f59e5f3-4296-4eab-8eaa-0c18b4b8621e">
+
+The following is the interface of my Login page 
+
+<img width="504" alt="Screenshot 2024-02-04 200202" src="https://github.com/SameenRajpoot/even-managment-system/assets/151715597/2f196717-f887-4dea-9623-d814a69945ff">
+
